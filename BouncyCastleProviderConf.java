@@ -43,4 +43,5 @@ public class BouncyCastleProviderConf implements InitializingBean {
             logger.error("Error loading BC provider.");
         }
     }
+	add func3
 }
