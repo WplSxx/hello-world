@@ -17,7 +17,6 @@ import java.security.Security;
  * </p>
  * Created by Lynn·Rowe on 2018/5/28.
  */
- add func1
 @Component
 public class BouncyCastleProviderConf implements InitializingBean {
 
@@ -25,7 +24,6 @@ public class BouncyCastleProviderConf implements InitializingBean {
 
     private static final String BC_PROVIDER_FQCN = "org.bouncycastle.jce.provider.BouncyCastleProvider";
 
-	add func2
     @Override
     public void afterPropertiesSet() throws Exception {
         try {
