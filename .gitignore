@@ -1,5 +1,5 @@
 gitTest.iml
+.gitignore
 /
 .idea/
-wpl.txt/
-.gitignore/
+wpl.txt*
