@@ -2,4 +2,4 @@ gitTest.iml
 .gitignore
 /
 .idea/
-wpl.txt*
+*.txt
