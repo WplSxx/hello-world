@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c84a2ed-ea80-4b01-bfaf-f4fc8196ca1b" name="Default Changelist" comment="" />
+    <list default="true" id="2c84a2ed-ea80-4b01-bfaf-f4fc8196ca1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +58,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -71,7 +74,8 @@
       <workItem from="1602244375090" duration="1799000" />
       <workItem from="1610970896707" duration="881000" />
       <workItem from="1611140001184" duration="660000" />
-      <workItem from="1611140704540" duration="5338000" />
+      <workItem from="1611140704540" duration="5662000" />
+      <workItem from="1611148378940" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="添加信息申晓晓">
       <created>1599313773014</created>
@@ -107,9 +111,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="760" y="152" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611144947310" />
-    <state x="344" y="78" key="SettingsEditor" timestamp="1611143726647">
+    <state x="344" y="78" key="SettingsEditor" timestamp="1611148364612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="344" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611143726647" />
+    <state x="344" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611148364612" />
   </component>
 </project>
