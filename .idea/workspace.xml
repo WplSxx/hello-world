@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1186cef6-4e2b-44a0-b4a4-fdbf4a1d1c1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wpl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wpl.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2c84a2ed-ea80-4b01-bfaf-f4fc8196ca1b" name="Default Changelist" comment="" />
+      <changelist id="1186cef6-4e2b-44a0-b4a4-fdbf4a1d1c1d" name="Default Changelist" comment="" />
       <created>1599312914599</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -75,6 +76,8 @@
       <workItem from="1611140001184" duration="660000" />
       <workItem from="1611140704540" duration="5662000" />
       <workItem from="1611148378940" duration="92000" />
+      <workItem from="1611229016832" duration="600000" />
+      <workItem from="1611322326151" duration="80000" />
     </task>
     <task id="LOCAL-00001" summary="添加信息申晓晓">
       <created>1599313773014</created>
